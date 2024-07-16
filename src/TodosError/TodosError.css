@@ -1,0 +1,13 @@
+/* TodosError.css */
+
+.error-text {
+    font-size: 18px;
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #ffe6e6;
+    padding: 10px;
+    border: 1px solid red;
+    border-radius: 5px;
+  }

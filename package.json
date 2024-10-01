@@ -31,8 +31,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://nitotito.github.io/cursoReactPlatzi",
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
-  }
+  "homepage": "."
 }

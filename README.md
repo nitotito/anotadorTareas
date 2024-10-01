@@ -6,4 +6,4 @@ Se puede agregar, completar y eliminar.
 
 Se utilizar el localStorage para el almacenamiento de informacion. 
 
-github page : https://nitotito.github.io/cursoReactPlatzi/
+Despliegue : https://anotadortareas.netlify.app/
